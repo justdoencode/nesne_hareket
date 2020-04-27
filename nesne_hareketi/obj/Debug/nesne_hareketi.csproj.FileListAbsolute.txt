@@ -1,0 +1,9 @@
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\nesne_hareketi\nesne_hareketi\bin\Debug\nesne_hareketi.exe.config
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\nesne_hareketi\nesne_hareketi\bin\Debug\nesne_hareketi.exe
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\nesne_hareketi\nesne_hareketi\bin\Debug\nesne_hareketi.pdb
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\nesne_hareketi\nesne_hareketi\obj\Debug\nesne_hareketi.csprojAssemblyReference.cache
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\nesne_hareketi\nesne_hareketi\obj\Debug\nesne_hareketi.Form1.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\nesne_hareketi\nesne_hareketi\obj\Debug\nesne_hareketi.Properties.Resources.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\nesne_hareketi\nesne_hareketi\obj\Debug\nesne_hareketi.csproj.GenerateResource.cache
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\nesne_hareketi\nesne_hareketi\obj\Debug\nesne_hareketi.exe
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\nesne_hareketi\nesne_hareketi\obj\Debug\nesne_hareketi.pdb
